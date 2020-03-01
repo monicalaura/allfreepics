@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monicalaura/allfreepics/static/css/main.108ed862.chunk.css",
-    "main.js": "/monicalaura/allfreepics/static/js/main.2a48cb64.chunk.js",
-    "main.js.map": "/monicalaura/allfreepics/static/js/main.2a48cb64.chunk.js.map",
-    "runtime-main.js": "/monicalaura/allfreepics/static/js/runtime-main.735e4fdf.js",
-    "runtime-main.js.map": "/monicalaura/allfreepics/static/js/runtime-main.735e4fdf.js.map",
-    "static/js/2.f0e1ecbe.chunk.js": "/monicalaura/allfreepics/static/js/2.f0e1ecbe.chunk.js",
-    "static/js/2.f0e1ecbe.chunk.js.map": "/monicalaura/allfreepics/static/js/2.f0e1ecbe.chunk.js.map",
-    "index.html": "/monicalaura/allfreepics/index.html",
-    "precache-manifest.70787061ce39336efd45e33a02b70b17.js": "/monicalaura/allfreepics/precache-manifest.70787061ce39336efd45e33a02b70b17.js",
-    "service-worker.js": "/monicalaura/allfreepics/service-worker.js",
-    "static/css/main.108ed862.chunk.css.map": "/monicalaura/allfreepics/static/css/main.108ed862.chunk.css.map",
-    "static/js/2.f0e1ecbe.chunk.js.LICENSE.txt": "/monicalaura/allfreepics/static/js/2.f0e1ecbe.chunk.js.LICENSE.txt"
+    "main.css": "/allfreepics/static/css/main.108ed862.chunk.css",
+    "main.js": "/allfreepics/static/js/main.78b913bc.chunk.js",
+    "main.js.map": "/allfreepics/static/js/main.78b913bc.chunk.js.map",
+    "runtime-main.js": "/allfreepics/static/js/runtime-main.32c246ae.js",
+    "runtime-main.js.map": "/allfreepics/static/js/runtime-main.32c246ae.js.map",
+    "static/js/2.f0e1ecbe.chunk.js": "/allfreepics/static/js/2.f0e1ecbe.chunk.js",
+    "static/js/2.f0e1ecbe.chunk.js.map": "/allfreepics/static/js/2.f0e1ecbe.chunk.js.map",
+    "index.html": "/allfreepics/index.html",
+    "precache-manifest.5470825da757e680791806e03fc2a2e2.js": "/allfreepics/precache-manifest.5470825da757e680791806e03fc2a2e2.js",
+    "service-worker.js": "/allfreepics/service-worker.js",
+    "static/css/main.108ed862.chunk.css.map": "/allfreepics/static/css/main.108ed862.chunk.css.map",
+    "static/js/2.f0e1ecbe.chunk.js.LICENSE.txt": "/allfreepics/static/js/2.f0e1ecbe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.735e4fdf.js",
+    "static/js/runtime-main.32c246ae.js",
     "static/js/2.f0e1ecbe.chunk.js",
     "static/css/main.108ed862.chunk.css",
-    "static/js/main.2a48cb64.chunk.js"
+    "static/js/main.78b913bc.chunk.js"
   ]
 }
